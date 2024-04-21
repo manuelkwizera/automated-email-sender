@@ -1,7 +1,3 @@
-Certainly! Below is an updated README with some real data based on the provided GitHub repository:
-
----
-
 # Automated Email Sender
 
 ## Overview
